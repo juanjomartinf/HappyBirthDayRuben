@@ -22,7 +22,7 @@ public class Ruben{
 		System.out.println();
 		
 		//Que no cumple X
-		int i = 0;
+		int i = 1;
 		boolean finded = false;	
 		while(i< 100 && !finded){
 			if(i == years_old){
